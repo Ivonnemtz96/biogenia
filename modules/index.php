@@ -49,7 +49,8 @@
                     </div>
                     <div class="post-content">
                         <h6><i>Escríbenos</i></h6>
-                        <h5><a style="text-decoration: underline;" href="mailto:info@biogenia.com">info@biogenia.com</a></h5>
+                        <h5><a style="text-decoration: underline;" href="mailto:info@biogenia.com">info@biogenia.com</a>
+                        </h5>
                     </div>
                 </div>
                 <div class="post-item">
@@ -58,7 +59,8 @@
                     </div>
                     <div class="post-content">
                         <h6><i>Visítanos</i></h6>
-                        <h5><a target="_blank" style="text-decoration: underline;" href="https://goo.gl/maps/vf58Azj5efViRPV87">Plaza Koral, cuarto piso</a></h5>
+                        <h5><a target="_blank" style="text-decoration: underline;"
+                                href="https://goo.gl/maps/vf58Azj5efViRPV87">Plaza Koral, cuarto piso</a></h5>
                     </div>
                 </div>
             </div>
@@ -137,8 +139,10 @@
         <div class="row">
             <div class="col-12">
                 <div class="section-header">
-                    <h2>Medicap Used By More Than <span class="theme-color">12,000 Medical & Health</span> Professionals
-                        Center Worldwide</h2>
+                    <h2>
+                        Tú también puedes cumplir el sueño<span class="theme-color"> Embryogen.</span> <br>
+                        ¡Estamos generando latidos!
+                    </h2>
                 </div>
             </div>
         </div>
@@ -157,7 +161,7 @@
                                                 data-toggle="tab" href="#Surgery" role="tab" aria-controls="Surgery"
                                                 aria-selected="true">
                                                 <img src="assets/images/service/icon/01.png" alt="category-icon">
-                                                <p>Outpatient Surgery</p>
+                                                <p>Fertilización in Vitro</p>
                                             </a>
                                         </li>
                                         <li class="nav-item">
@@ -165,7 +169,7 @@
                                                 data-toggle="tab" href="#Cardiac" role="tab" aria-controls="Cardiac"
                                                 aria-selected="false">
                                                 <img src="assets/images/service/icon/02.png" alt="category-icon">
-                                                <p>Cardiac Clinicy</p>
+                                                <p>Segumiento de embarazo</p>
                                             </a>
                                         </li>
                                         <li class="nav-item">
@@ -173,7 +177,7 @@
                                                 data-toggle="tab" href="#Ophthalmology" role="tab"
                                                 aria-controls="Ophthalmology" aria-selected="false">
                                                 <img src="assets/images/service/icon/03.png" alt="category-icon">
-                                                <p>Ophthalmology Clinic</p>
+                                                <p>Asistencia</p>
                                             </a>
                                         </li>
                                         <li class="nav-item">
@@ -181,10 +185,10 @@
                                                 data-toggle="tab" href="#Gynaecological" role="tab"
                                                 aria-controls="Gynaecological" aria-selected="false">
                                                 <img src="assets/images/service/icon/04.png" alt="category-icon">
-                                                <p>Gynaecological Clinic</p>
+                                                <p>Llegada de felicidad</p>
                                             </a>
                                         </li>
-                                        <li class="nav-item">
+                                        <!-- <li class="nav-item">
                                             <a class="nav-link d-flex align-items-center" id="Outpatient-tab"
                                                 data-toggle="tab" href="#Outpatient" role="tab"
                                                 aria-controls="Outpatient" aria-selected="false">
@@ -207,7 +211,7 @@
                                                 <img src="assets/images/service/icon/07.png" alt="category-icon">
                                                 <p>Pediatric Clinic</p>
                                             </a>
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </div>
                             </div>

@@ -13,55 +13,11 @@
                     <div class="main-menu d-flex flex-wrap align-items-center justify-content-center w-100">
                         <ul class="lab-ul">
                             <li class="active">
-                                <a href="#0">Home</a>
-                                <ul class="lab-ul">
-                                    <li class="active"><a href="index.html">Home Page One</a></li>
-                                    <li><a href="index-2.html">Home Page Two</a></li>
-                                </ul>
+                                <a href="index.php">Inicio</a>
                             </li>
-                            <li><a href="about.html">About</a></li>
-                            <li>
-                                <a href="#0">Pages</a>
-                                <ul class="lab-ul">
-                                    <li>
-                                        <a href="#0">Services</a>
-                                        <ul class="lab-ul">
-                                            <li><a href="service.html">Service</a></li>
-                                            <li><a href="service-single.html">Service Single</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="#0">Portfolios</a>
-                                        <ul class="lab-ul">
-                                            <li><a href="portfolio.html">Portfolio style 1</a></li>
-                                            <li><a href="portfolio-2.html">Portfolio style 2</a></li>
-                                            <li><a href="portfolio-single.html">Portfolio style 3</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="team.html">Team Membar</a></li>
-                                    <li><a href="timetable.html">Time Table</a></li>
-                                    <li><a href="history.html">History Page</a></li>
-                                    <li><a href="404.html">404 Page</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#0">Blog</a>
-                                <ul class="lab-ul">
-                                    <li><a href="blog.html">Blog Style 1</a></li>
-                                    <li><a href="blog-2.html">Blog style 2</a></li>
-                                    <li><a href="blog-3.html">Blog style 3</a></li>
-                                    <li><a href="blog-single.html">Blog Details</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#0">Shop</a>
-                                <ul class="lab-ul">
-                                    <li><a href="shop.html">Products Page</a></li>
-                                    <li><a href="shop-single.html">Products Details</a></li>
-                                    <li><a href="cart-page.html">Cart Page</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="nosotros.php">Nosotros</a></li>
+                            <li><a href="index.php#agendar">Agendar cita</a></li>
+                            <li><a href="contact.php">Contacto</a></li>
                         </ul>
                         <ul class="lab-ul search-cart">
                             <li>

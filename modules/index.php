@@ -6,10 +6,10 @@
                 <div class="col-xl-6 col-lg-8 col-12">
                     <div class="banner-content-area">
                         <div class="banner-content">
-                            <h1>Bringing <span class="theme-color font-l"> Health</span> to Life For The Whole <span
-                                    class="primary-color font-l"> Family </span></h1>
+                            <h1>En <span class="theme-color font-l"> Biogenia</span> estamos generando<span
+                                    class="primary-color font-l"> latidos </span></h1>
                             <div class="banner-btn">
-                                <a href="#" class="lab-btn"><span>Get Appointments <i
+                                <a href="#" class="lab-btn"><span>Agenda tu cita <i
                                             class="icofont-rounded-double-right"></i></span></a>
                                 <div class="video-btn">
                                     <a href="https://www.youtube.com/embed/JZGvyoEK6sw" data-rel="lightcase"
@@ -39,8 +39,8 @@
                         <img src="assets/images/banner/icon-01.png" alt="banner">
                     </div>
                     <div class="post-content">
-                        <h6><i>Give us a Call</i></h6>
-                        <h5>001-888-123-4567</h5>
+                        <h6><i>Llámanos</i></h6>
+                        <h5><a style="text-decoration: underline;" href="tel:+526241242200">624 123 2200</a></h5>
                     </div>
                 </div>
                 <div class="post-item">
@@ -48,8 +48,8 @@
                         <img src="assets/images/banner/icon-02.png" alt="banner">
                     </div>
                     <div class="post-content">
-                        <h6><i>Send us a Message</i></h6>
-                        <h5>medicap@mail.com</h5>
+                        <h6><i>Escríbenos</i></h6>
+                        <h5><a style="text-decoration: underline;" href="mailto:info@biogenia.com">info@biogenia.com</a></h5>
                     </div>
                 </div>
                 <div class="post-item">
@@ -57,8 +57,8 @@
                         <img src="assets/images/banner/icon-03.png" alt="banner">
                     </div>
                     <div class="post-content">
-                        <h6><i>Visit our Location</i></h6>
-                        <h5>02-07 Suitland Street 120</h5>
+                        <h6><i>Visítanos</i></h6>
+                        <h5><a target="_blank" style="text-decoration: underline;" href="https://goo.gl/maps/vf58Azj5efViRPV87">Plaza Koral, cuarto piso</a></h5>
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@
     <div class="pattan-shape"></div>
     <div class="container">
         <div class="section-header">
-            <h2>Awesome Theme For <span class="theme-color">Medical & Health</span> Websites</h2>
+            <h2>En <span class="theme-color">Biogenia</span> apoyamos tu proyecto de vida.</h2>
         </div>
         <div class="section-wrapper">
             <div class="row justify-content-center no-gutters">
@@ -82,9 +82,9 @@
                             <img src="assets/images/about/01.png" alt="about">
                         </div>
                         <div class="about-content">
-                            <h5>Medical Treatment</h5>
+                            <h5>Tratamientos asistidos</h5>
                             <p>Caborin levera then andin tha qualit bwdh thenig covae thm anying value cordin</p>
-                            <a href="#" class="text-btn">Get Appointments</a>
+                            <a href="#" class="text-btn">Más información</a>
                         </div>
                     </div>
                 </div>
@@ -94,9 +94,9 @@
                             <img src="assets/images/about/02.png" alt="about">
                         </div>
                         <div class="about-content">
-                            <h5>Emergency Help</h5>
+                            <h5>Asistencia</h5>
                             <p>Caborin levera then andin tha qualit bwdh thenig covae thm anying value cordin</p>
-                            <a href="#" class="text-btn">Call us Now</a>
+                            <a href="tel:+526241242200" class="text-btn">Marcar ahora</a>
                         </div>
                     </div>
                 </div>
@@ -106,9 +106,9 @@
                             <img src="assets/images/about/03.png" alt="about">
                         </div>
                         <div class="about-content">
-                            <h5>Locations & Directions</h5>
+                            <h5>Más cerca de ti</h5>
                             <p>Caborin levera then andin tha qualit bwdh thenig covae thm anying value cordin</p>
-                            <a href="#" class="text-btn">Get Directions</a>
+                            <a href="https://goo.gl/maps/vf58Azj5efViRPV87" class="text-btn">Ver ubicación</a>
                         </div>
                     </div>
                 </div>
@@ -118,9 +118,9 @@
                             <img src="assets/images/about/04.png" alt="about">
                         </div>
                         <div class="about-content">
-                            <h5>Qualified Doctors</h5>
+                            <h5>Personal Calificado</h5>
                             <p>Caborin levera then andin tha qualit bwdh thenig covae thm anying value cordin</p>
-                            <a href="#" class="text-btn">Find a Doctors</a>
+                            <a href="#" class="text-btn">Agendar cita</a>
                         </div>
                     </div>
                 </div>

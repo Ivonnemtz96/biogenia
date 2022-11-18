@@ -1042,16 +1042,16 @@ select {
 }
 
 .col-12:nth-child(1) .about-item.style-1 .text-btn {
-  color: #9160ff;
-}
-.col-12:nth-child(2) .about-item.style-1 .text-btn {
-  color: #ffac00;
-}
-.col-12:nth-child(3) .about-item.style-1 .text-btn {
   color: #5c56a3;
 }
+.col-12:nth-child(2) .about-item.style-1 .text-btn {
+  color: #e33d81;
+}
+.col-12:nth-child(3) .about-item.style-1 .text-btn {
+  color: #2c3a85;
+}
 .col-12:nth-child(4) .about-item.style-1 .text-btn {
-  color: #ff736e;
+  color: #ab3282;
 }
 
 .service-item.style-1 {

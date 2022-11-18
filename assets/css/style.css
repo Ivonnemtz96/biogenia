@@ -603,14 +603,14 @@ select {
 }
 
 .google {
-  background: #dd4b39;
+  background: #C13584;
 }
 .google:hover {
   background: #fff;
-  border-color: #dd4b39 !important;
+  border-color: #C13584 !important;
 }
 .google:hover i {
-  color: #dd4b39;
+  color: #C13584;
 }
 .google i {
   color: #fff;

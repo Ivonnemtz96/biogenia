@@ -49,8 +49,7 @@
                     </div>
                     <div class="post-content">
                         <h6><i>Escríbenos</i></h6>
-                        <h5><a style="text-decoration: underline;" href="mailto:info@biogenia.com">info@biogenia.com</a>
-                        </h5>
+                        <h5><a style="text-decoration: underline;" href="mailto:info@biogenia.com">info@biogenia.com</a></h5>
                     </div>
                 </div>
                 <div class="post-item">

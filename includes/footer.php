@@ -10,8 +10,9 @@
                              <img src="assets/images/footer/icon/01.png" alt="footer">
                          </div>
                          <div class="ft-content">
-                             <p><i>Give us a Call</i></p>
-                             <h6>+882-888-123-4567</h6>
+                             <p><i>Llámanos</i></p>
+                             <h6><a style="color:#fff; text-decoration: underline;" href="tel:+526241242200">624 123
+                                     2200</a></h6>
                          </div>
                      </div>
                      <div class="ft-item">
@@ -19,8 +20,9 @@
                              <img src="assets/images/footer/icon/02.png" alt="footer">
                          </div>
                          <div class="ft-content">
-                             <p><i>Send us a Message</i></p>
-                             <h6>medicap@gmail.com</h6>
+                             <p><i>Escríbenos</i></p>
+                             <h6><a style="color:#fff; text-decoration: underline;"
+                                     href="mailto:info@biogenia.com">info@biogenia.com</a></h6>
                          </div>
                      </div>
                      <div class="ft-item">
@@ -28,14 +30,15 @@
                              <img src="assets/images/footer/icon/03.png" alt="footer">
                          </div>
                          <div class="ft-content">
-                             <p><i>Visit our Location</i></p>
-                             <h6>07 Suitland Street 120 USA</h6>
+                             <p><i>Visítanos</i></p>
+                             <h6><a target="_blank" style="color:#fff; text-decoration: underline;"
+                                     href="https://goo.gl/maps/vf58Azj5efViRPV87">Plaza Koral, cuarto piso</a></h6>
                          </div>
                      </div>
                  </div>
              </div>
          </div>
-         <div class="footer-top">
+         <div class="footer-top" >
              <div class="container">
                  <div class="ft-bottom">
                      <div class="row justify-content-center no-gutters">
@@ -43,12 +46,14 @@
                              <div class="ft-about-part">
                                  <div class="bg-asb-thumb"></div>
                                  <div class="ft-title">
-                                     <h4>About Our Medicap</h4>
+                                     <h4>Sobre Biogenia</h4>
                                  </div>
                                  <div class="ft-body">
-                                     <p>Assertvely communicate mission critical agnments economically sound communities
-                                         through dynamic Phosfluoresc internal sources</p>
-                                     <a href="#" class="lab-btn"><span>View Website <i
+                                     <p>
+                                         Primer centro de atención integral para parejas con infertilidad en Baja
+                                         California Sur
+                                     </p>
+                                     <a href="#" class="lab-btn"><span>Agendar cita<i
                                                  class="icofont-double-right"></i></span></a>
                                  </div>
                              </div>
@@ -56,17 +61,13 @@
                          <div class="col-xl-4 col-lg-6 col-12">
                              <div class="ft-opening-part">
                                  <div class="ft-title">
-                                     <h4>Our Opening Hours</h4>
+                                     <h4>Horarios</h4>
                                  </div>
                                  <div class="ft-body">
                                      <ul class="lab-ul">
-                                         <li><span>Satarday</span><span>09:00 am - 10:00 pm</span></li>
-                                         <li><span>Sunday</span><span>09:00 am - 10:00 pm</span></li>
-                                         <li><span>Monday</span><span>09:00 am - 10:00 pm</span></li>
-                                         <li><span>Tuesday</span><span>09:00 am - 10:00 pm</span></li>
-                                         <li><span>Widnessday</span><span>09:00 am - 10:00 pm</span></li>
-                                         <li><span>Thirsday</span><span>09:00 am - 10:00 pm</span></li>
-                                         <li><span>Friday</span><span>09:00 am - 10:00 pm</span></li>
+                                         <li><span>Lunes - Viernes</span><span>09:00 am - 20:00 pm</span></li>
+                                         <li><span>Sábado</span><span>09:00 am - 15:00 pm</span></li>
+                                         <li><span>Domingo</span><span>Cerrado</span></li>
                                      </ul>
                                  </div>
                              </div>
@@ -84,7 +85,7 @@
                  </div>
              </div>
          </div>
-         <div class="footer-bottom bg-ash">
+         <div class="footer-bottom bg-ash"  style="margin-top: 12rem;">
              <div class="container">
                  <div class="section-wrapper">
                      <div class="left">
@@ -92,14 +93,14 @@
                      </div>
                      <ul class="right lab-ul">
                          <li>
-                             <a class="facebook" href="#"><i class="icofont-facebook"></i></a>
+                             <a class="facebook" target="_blank" href="https://www.facebook.com/Biogenia.fertilidad/"><i class="icofont-facebook"></i></a>
                              <span>Facebook</span>
                          </li>
                          <li>
-                             <a class="google" href="#"><i class="icofont-google-plus"></i></a>
-                             <span>Google Plus</span>
+                             <a class="google" target="_blank" href="https://www.instagram.com/biogenia_fertilidad/"><i class="icofont-instagram"></i></a>
+                             <span>Instagram</span>
                          </li>
-                         <li>
+                         <!-- <li>
                              <a class="twitter" href="#"><i class="icofont-twitter"></i></a>
                              <span>Twitter</span>
                          </li>
@@ -110,7 +111,7 @@
                          <li>
                              <a class="linkedin" href="#"><i class="icofont-linkedin"></i></a>
                              <span>Linkedin</span>
-                         </li>
+                         </li> -->
                      </ul>
                  </div>
              </div>
@@ -120,8 +121,8 @@
          <div class="container">
              <div class="row justify-content-center">
                  <div class="col-12">
-                     <p>&copy; 2020 <a href="index.html">Medicap</a>Designed By <a
-                             href="https://themeforest.net/user/Labartisan/portfolio" target="_blank">Labartisan</a></p>
+                     <p>&copy; 2022 <a href="index.html">Biogenia</a>Diseñado por <a
+                             href="https://bananagroup.mx" target="_blank">Banana Group Marketing</a></p>
                  </div>
              </div>
          </div>

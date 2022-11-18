@@ -7,3 +7,6 @@
 <script src="assets/js/waypoints.min.js"></script>
 <script src="assets/js/wow.min.js"></script>
 <script src="assets/js/functions.js"></script>
+<script>
+
+</script>

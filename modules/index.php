@@ -415,18 +415,15 @@
                                                             infertilidad para lograr su sueño de ser padres.
                                                         </p>
                                                         <ul class="lab-ul">
-                                                            <li><i class="icofont-rounded-double-right"></i>Qualified
-                                                                Doctors</li>
-                                                            <li><i class="icofont-rounded-double-right"></i>Furthering
-                                                                Patien Care</li>
-                                                            <li><i class="icofont-rounded-double-right"></i>24×7
-                                                                Emergency Services</li>
-                                                            <li><i class="icofont-rounded-double-right"></i>Integrity &
-                                                                Innovations</li>
-                                                            <li><i class="icofont-rounded-double-right"></i>General
-                                                                Medical</li>
-                                                            <li><i class="icofont-rounded-double-right"></i>Model of
-                                                                Healthcare</li>
+                                                            <li><i class="icofont-rounded-double-right"></i>
+                                                                Especialistas Calificados
+                                                            </li>
+                                                            <li><i class="icofont-rounded-double-right"></i>Asistencia
+                                                                total</li>
+                                                            <li><i class="icofont-rounded-double-right"></i>Tasa de
+                                                                éxito</li>
+                                                            <li><i class="icofont-rounded-double-right"></i>Biólogo de
+                                                                la reproducción</li>
                                                         </ul>
                                                         <div class="service-footer">
                                                             <div class="sf-left">
@@ -436,14 +433,14 @@
                                                                 </div>
                                                                 <div class="sfl-content">
                                                                     <a href="#">
-                                                                        <h6>Dr. William Smith</h6>
+                                                                        <h6>Dr. Javier Payén</h6>
                                                                     </a>
-                                                                    <p>Specialist</p>
+                                                                    <p>Biólogo de la reproducción</p>
                                                                 </div>
                                                             </div>
                                                             <div class="sf-right">
-                                                                <a href="service-single.html" class="lab-btn"><span>Read
-                                                                        More<i
+                                                                <a href="service-single.html"
+                                                                    class="lab-btn"><span>Agendar cita<i
                                                                             class="icofont-rounded-double-right"></i></span></a>
                                                             </div>
                                                         </div>

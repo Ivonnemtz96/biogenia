@@ -31,7 +31,7 @@
             <div class="col-lg-6 col-12">
                 <div class="pc-thumb">
                     <img src="assets/images/care/01.jpg" alt="care">
-                    <div class="pct-content">
+                    <div hidden class="pct-content">
                         <div class="pctc-area d-flex flex-wrap align-items-center">
                             <div class="pct-icon">
                                 <img src="assets/images/care/icon/01.png" alt="care">

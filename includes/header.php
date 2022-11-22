@@ -4,7 +4,7 @@
         <div class="container">
             <div class="primary-menu">
                 <div class="logo py-2">
-                    <a href="index.html"><img src="assets/images/logo/02.png" alt="logo"></a>
+                    <a href="index.php"><img src="assets/images/logo/02.png" alt="logo"></a>
                 </div>
                 <div class="menu-bar d-lg-none">
                     <i class="icofont-navigation-menu"></i>

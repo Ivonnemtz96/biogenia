@@ -21,50 +21,14 @@
                         </ul>
                         <ul class="lab-ul search-cart">
                             <li>
-                                <div class="search-option">
-                                    <div class="icon icon-search"><i class="icofont-search-2"></i></div>
-                                </div>
+                                <a target="_blank" href="https://www.instagram.com/biogenia_fertilidad/" class="search-option">
+                                    <div  class="icon icon-search"><i class="icofont-instagram"></i></div>
+                                </a>
                             </li>
                             <li>
-                                <div class="cart-option">
-                                    <div class="icon icon-check"><i class="icofont-cart-alt"></i></div>
-                                    <span class="count-item">2</span>
-                                    <div class="cart-content">
-                                        <div class="cart-item">
-                                            <div class="cart-img">
-                                                <img src="assets/images/shop/01.jpg" alt="cart">
-                                            </div>
-                                            <div class="cart-des">
-                                                <a href="#">Product Title Hore</a>
-                                                <p>$20.00</p>
-                                            </div>
-                                            <div class="cart-btn">
-                                                <a href="#"><i class="icofont-close-circled"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="cart-item">
-                                            <div class="cart-img">
-                                                <img src="assets/images/shop/02.jpg" alt="cart">
-                                            </div>
-                                            <div class="cart-des">
-                                                <a href="#">Product Title Hore</a>
-                                                <p>$20.00</p>
-                                            </div>
-                                            <div class="cart-btn">
-                                                <a href="#"><i class="icofont-close-circled"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="cart-bottom">
-                                            <div class="cart-subtotal">
-                                                <p>Total: <b class="float-right">$40.00</b></p>
-                                            </div>
-                                            <div class="cart-action">
-                                                <a href="#" class="lab-btn"><span>View Cart</span></a>
-                                                <a href="#" class="lab-btn"><span>Check Out</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                <a target="_blank" href="https://www.facebook.com/Biogenia.fertilidad/" class="cart-option">
+                                    <div class="icon icon-check"><i class="icofont-facebook"></i></div>
+                                </a>
                             </li>
                         </ul>
                     </div>

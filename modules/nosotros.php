@@ -3,7 +3,13 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <div class="page-header-area">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <!-- <div class="page-header-area">
                     <h3 class="page-header-title">Sobre Nosotros</h3>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb bg-transparent mb-0">
@@ -11,7 +17,7 @@
                             <li class="breadcrumb-item active" aria-current="page">Nosotros</li>
                         </ol>
                     </nav>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

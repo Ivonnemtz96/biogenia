@@ -7,105 +7,194 @@
                 <br>
                 <br>
                 <br>
+                <br>
                 <!-- <div class="page-header-area">
-                        <h3 class="page-header-title">Contact Info</h3>
-                        <nav aria-label="breadcrumb">
-                            <ol class="breadcrumb bg-transparent mb-0">
-                                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Contact</li>
-                            </ol>
-                        </nav>
-                    </div> -->
+                    <h3 class="page-header-title">Gallery of Our Clinic</h3>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb bg-transparent mb-0">
+                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Portfolio</li>
+                        </ol>
+                    </nav>
+                </div> -->
             </div>
         </div>
     </div>
 </div>
 <!-- banner section ending here -->
 
-<section class="redes-sociales">
-    <div class="container text-center mt-5 mb-5">
-        <h2>¡Síguenos en nuestras redes sociales!</h2>
-        <div class="row mt-5">
-            <div class="col-md-6 align-items-center">
-                <a href="https://www.instagram.com/biogenia_fertilidad/">
-                    <img src="assets/images/insta.png" alt="Biogenia">
-                    <h4 class="mt-2"><b>@biogenia_fertilidad</b></h4>
-                </a>   
-            </div>
-            <div class="col-md-6 align-items-center">
-                <a href="https://www.facebook.com/Biogenia.fertilidad/">
-                    <img src="assets/images/face.png" alt="Biogenia">
-                    <h4 class="mt-2"><b>Biogenia Centro de Fertilidad</b></h4>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Contact section start here -->
-<section class="contact-us padding-tb">
+<!-- portfolio section start here -->
+<section class="portfolio-section padding-tb">
     <div class="container">
-        <div class="contact-wrap">
-            <div class="row">
-                <div class="col-lg-4 col-12 mb-4 mb-lg-0">
-                    <div class="contact-title mb-4">
-                        <h4>Información de contacto</h4>
+        <div class="section-wrapper">
+            <div class="row justify-content-center">
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="lab-item-3 port-item">
+                        <div class="lab-inner">
+                            <div class="lab-thumb">
+                                <img src="assets/images/portfolio/01.jpg" alt="lab-rcpost">
+                                <div class="port-share">
+                                    <!-- <a href="portfolio-single.html"><i class="icofont-link-alt"></i></a> -->
+                                    <a href="assets/images/portfolio/01.jpg" data-rel="lightcase:myCollection"><i
+                                            class="icofont-search-2"></i></a>
+                                </div>
+                            </div>
+                            <!-- <div class="lab-content">
+                                <h5><a href="portfolio-single.html">Edge catalysts for change</a></h5>
+                                <span>Pain Management</span>
+                            </div> -->
+                        </div>
                     </div>
-                    <ul class="contact-area lab-ul">
-                        <li class="contact-item">
-                            <div class="contact-icon">
-                                <img src="assets/images/contact/01.png" alt="contact">
-                            </div>
-                            <div class="content">
-                                <h6>Dirección</h6>
-                                <p>Plaza Koral, cuarto piso, <br> San José del Cabo</p>
-                            </div>
-                        </li>
-                        <li class="contact-item">
-                            <div class="contact-icon">
-                                <img src="assets/images/contact/02.png" alt="contact">
-                            </div>
-                            <div class="content">
-                                <h6>Phone Number</h6>
-                                <p><a href="tel:+526241232200">624 123 2200</a></p>
-                            </div>
-                        </li>
-                        <li class="contact-item">
-                            <div class="contact-icon">
-                                <img src="assets/images/contact/03.png" alt="contact">
-                            </div>
-                            <div class="content">
-                                <h6>Correo</h6>
-                                <p>info@biogenia.com</p>
-                            </div>
-                        </li>
-                        <!-- <li class="contact-item">
-                                <div class="contact-icon">
-                                    <img src="assets/images/contact/04.png" alt="contact">
-                                </div>
-                                <div class="content">
-                                    <h6>Website Address:</h6>
-                                    <p>http://adminmedicap.com</p>
-                                </div>
-                            </li> -->
-                    </ul>
                 </div>
-                <div class="col-lg-8 col-xs-12">
-                    <div class="contact-title mb-4">
-                        <h4>Envía tus dudas o comentarios</h4>
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="lab-item-3 port-item">
+                        <div class="lab-inner">
+                            <div class="lab-thumb">
+                                <img src="assets/images/portfolio/02.jpg" alt="lab-rcpost">
+                                <div class="port-share">
+                                    <!-- <a href="portfolio-single.html"><i class="icofont-link-alt"></i></a> -->
+                                    <a href="assets/images/portfolio/02.jpg" data-rel="lightcase:myCollection"><i
+                                            class="icofont-search-2"></i></a>
+                                </div>
+                            </div>
+                            <!-- <div class="lab-content">
+                                <h5><a href="portfolio-single.html">Plagiarze Reable Bandwdth</a></h5>
+                                <span>Treatments</span>
+                            </div> -->
+                        </div>
                     </div>
-                    <form class="contact-form" action="https://labartisan.net/">
-                        <input type="text" name="name" placeholder="Nombre completo *" class="contact-input" required>
-                        <input type="email" name="email" placeholder="Correo *" class="contact-input" required>
-                        <input type="text" name="text" placeholder="Teléfono *" class="contact-input" required>
-                        <input type="text" name="text" placeholder="Asunto *" class="contact-input" required>
-                        <textarea rows="5" class="contact-input" placeholder="Escribe tu mensaje"></textarea>
-                        <button class="lab-btn" type="submit"><span>Enviar<i
-                                    class="icofont-rounded-double-right"></i></span></button>
-                    </form>
+                </div>
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="lab-item-3 port-item">
+                        <div class="lab-inner">
+                            <div class="lab-thumb">
+                                <img src="assets/images/portfolio/03.jpg" alt="lab-rcpost">
+                                <div class="port-share">
+                                    <!-- <a href="portfolio-single.html"><i class="icofont-link-alt"></i></a> -->
+                                    <a href="assets/images/portfolio/03.jpg" data-rel="lightcase:myCollection"><i
+                                            class="icofont-search-2"></i></a>
+                                </div>
+                            </div>
+                            <!-- <div class="lab-content">
+                                <h5><a href="portfolio-single.html">Cuting Edge Minshare Visa</a></h5>
+                                <span>Quality Therapy</span>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="lab-item-3 port-item">
+                        <div class="lab-inner">
+                            <div class="lab-thumb">
+                                <img src="assets/images/portfolio/04.jpg" alt="lab-rcpost">
+                                <div class="port-share">
+                                    <!-- <a href="portfolio-single.html"><i class="icofont-link-alt"></i></a> -->
+                                    <a href="assets/images/portfolio/04.jpg" data-rel="lightcase:myCollection"><i
+                                            class="icofont-search-2"></i></a>
+                                </div>
+                            </div>
+                            <!-- <div class="lab-content">
+                                <h5><a href="portfolio-single.html">Wide Value And Rahe Than </a></h5>
+                                <span>Laboratory Tests</span>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="lab-item-3 port-item">
+                        <div class="lab-inner">
+                            <div class="lab-thumb">
+                                <img src="assets/images/portfolio/05.jpg" alt="lab-rcpost">
+                                <div class="port-share">
+                                    <!-- <a href="portfolio-single.html"><i class="icofont-link-alt"></i></a> -->
+                                    <a href="assets/images/portfolio/05.jpg" data-rel="lightcase:myCollection"><i
+                                            class="icofont-search-2"></i></a>
+                                </div>
+                            </div>
+                            <!-- <div class="lab-content">
+                                <h5><a href="portfolio-single.html">Web Readnes Rather Than</a></h5>
+                                <span>Family Care</span>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="lab-item-3 port-item">
+                        <div class="lab-inner">
+                            <div class="lab-thumb">
+                                <img src="assets/images/portfolio/06.jpg" alt="lab-rcpost">
+                                <div class="port-share">
+                                    <!-- <a href="portfolio-single.html"><i class="icofont-link-alt"></i></a> -->
+                                    <a href="assets/images/portfolio/06.jpg" data-rel="lightcase:myCollection"><i
+                                            class="icofont-search-2"></i></a>
+                                </div>
+                            </div>
+                            <!-- <div class="lab-content">
+                                <h5><a href="portfolio-single.html">Unique Impact And Leading</a></h5>
+                                <span>Pediatrics Care</span>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="lab-item-3 port-item">
+                        <div class="lab-inner">
+                            <div class="lab-thumb">
+                                <img src="assets/images/portfolio/07.jpg" alt="lab-rcpost">
+                                <div class="port-share">
+                                    <!-- <a href="portfolio-single.html"><i class="icofont-link-alt"></i></a> -->
+                                    <a href="assets/images/portfolio/07.jpg" data-rel="lightcase:myCollection"><i
+                                            class="icofont-search-2"></i></a>
+                                </div>
+                            </div>
+                            <!-- <div class="lab-content">
+                                <h5><a href="portfolio-single.html">Edge Catalysts For Change</a></h5>
+                                <span>Treatments</span>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="lab-item-3 port-item">
+                        <div class="lab-inner">
+                            <div class="lab-thumb">
+                                <img src="assets/images/portfolio/08.jpg" alt="lab-rcpost">
+                                <div class="port-share">
+                                    <a href="portfolio-single.html"><i class="icofont-link-alt"></i></a>
+                                    <a href="assets/images/portfolio/08.jpg" data-rel="lightcase:myCollection"><i
+                                            class="icofont-search-2"></i></a>
+                                </div>
+                            </div>
+                            <!-- <div class="lab-content">
+                                <h5><a href="portfolio-single.html">Plagiarze Reable Bandwdth</a></h5>
+                                <span>Quality Orthodontics</span>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="lab-item-3 port-item">
+                        <div class="lab-inner">
+                            <div class="lab-thumb">
+                                <img src="assets/images/portfolio/09.jpg" alt="lab-rcpost">
+                                <div class="port-share">
+                                    <!-- <a href="portfolio-single.html"><i class="icofont-link-alt"></i></a> -->
+                                    <a href="assets/images/portfolio/09.jpg" data-rel="lightcase:myCollection"><i
+                                            class="icofont-search-2"></i></a>
+                                </div>
+                            </div>
+                            <!-- <div class="lab-content">
+                                <h5><a href="portfolio-single.html">Cuting Edge Minshare Visa</a></h5>
+                                <span>Cardiology</span>
+                            </div> -->
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+        <!-- <div class="text-center">
+            <a href="#" class="lab-btn"><span>Load More <i class="icofont-spinner"></i></span></a>
+        </div> -->
     </div>
 </section>
-<!-- Contact section ending here -->
+<!-- portfolio section ending here -->

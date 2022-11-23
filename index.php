@@ -5,6 +5,9 @@ include('includes/head.php');
 ?>
 
 <body>
+    <?
+    include('includes/preloader.php');
+    ?>
     <div class="body-wrap bg-ash">
         <?php
         include('includes/header.php');

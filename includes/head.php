@@ -11,5 +11,5 @@
     <link rel="stylesheet" href="assets/css/lightcase.css">
     <link rel="stylesheet" href="assets/css/swiper.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Medicap</title>
+    <title>Biogenia</title>
 </head>

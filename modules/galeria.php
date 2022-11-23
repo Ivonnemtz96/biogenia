@@ -1,5 +1,5 @@
 <!-- banner section start here -->
-<div class="page-header bg_img" style="background-image: url(assets/images/banner/page-header/01.jpg);">
+<div class="page-header bg_img" style="background-image: url(assets/images/banner/page-header/02.jpg); background-size: cover;">
     <div class="container">
         <div class="row">
             <div class="col-12">

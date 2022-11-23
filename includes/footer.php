@@ -121,7 +121,7 @@
          <div class="container">
              <div class="row justify-content-center">
                  <div class="col-12">
-                     <p>&copy; 2022 <a href="index.html">Biogenia</a>Diseñado por <a
+                     <p>&copy; 2022 <a href="index.php">Biogenia</a>Diseñado por <a
                              href="https://bananagroup.mx" target="_blank">Banana Group Marketing</a></p>
                  </div>
              </div>

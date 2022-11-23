@@ -17,7 +17,7 @@
                             </li>
                             <li><a href="nosotros.php">Nosotros</a></li>
                             <li><a href="index.php#agendar">Agendar cita</a></li>
-                            <li><a href="contact.php">Contacto</a></li>
+                            <li><a href="contacto.php">Contacto</a></li>
                         </ul>
                         <ul class="lab-ul search-cart">
                             <li>

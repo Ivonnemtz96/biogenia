@@ -8,7 +8,7 @@ include('includes/head.php');
     <div class="body-wrap bg-ash">
         <?php
         include('includes/header.php');
-        include('modules/index.php');
+        include('modules/contacto.php');
         include('includes/footer.php');
         ?>
     </div>

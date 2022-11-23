@@ -53,7 +53,7 @@
                                          Primer centro de atención integral para parejas con infertilidad en Baja
                                          California Sur
                                      </p>
-                                     <a href="#" class="lab-btn"><span>Agendar cita<i
+                                     <a href="index.php#agendar" class="lab-btn"><span>Agendar cita<i
                                                  class="icofont-double-right"></i></span></a>
                                  </div>
                              </div>
@@ -75,9 +75,7 @@
                          <div class="col-xl-4 col-12">
                              <div class="ft-map-area">
                                  <div class="ft-map">
-                                     <iframe
-                                         src="https://maps.google.com/maps?q=new%40codexcoder&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=&amp;output=embed"
-                                         style="border:0" allowfullscreen></iframe>
+                                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d918.1481744147068!2d-109.7345342!3d23.0020004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51ca7a149017%3A0x3e5399b88280ae73!2sBIOGENIA%20Centro%20de%20Fertilidad!5e0!3m2!1ses-419!2smx!4v1669246046429!5m2!1ses-419!2smx"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                  </div>
                              </div>
                          </div>

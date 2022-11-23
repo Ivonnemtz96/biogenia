@@ -12,7 +12,7 @@
                                 <a href="index.php#agendar" class="lab-btn"><span>Agenda tu cita <i
                                             class="icofont-rounded-double-right"></i></span></a>
                                 <div class="video-btn">
-                                    <a href="https://www.youtube.com/embed/hf1ju0y6-WU" data-rel="lightcase"
+                                    <a href="https://www.youtube.com/embed/dHWrvWvqhCg" data-rel="lightcase"
                                         title="Watch Now" class="video-icon">
                                         <img src="assets/images/video/icon-01.png" alt="video">
                                         <div class="wave-wrapper">

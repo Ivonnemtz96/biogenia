@@ -9,10 +9,10 @@
                             <h1>En <span class="theme-color font-l"> Biogenia</span> estamos generando<span
                                     class="primary-color font-l"> latidos </span></h1>
                             <div class="banner-btn">
-                                <a href="#" class="lab-btn"><span>Agenda tu cita <i
+                                <a href="index.php#agendar" class="lab-btn"><span>Agenda tu cita <i
                                             class="icofont-rounded-double-right"></i></span></a>
                                 <div class="video-btn">
-                                    <a href="https://www.youtube.com/embed/JZGvyoEK6sw" data-rel="lightcase"
+                                    <a href="https://www.youtube.com/embed/hf1ju0y6-WU" data-rel="lightcase"
                                         title="Watch Now" class="video-icon">
                                         <img src="assets/images/video/icon-01.png" alt="video">
                                         <div class="wave-wrapper">
@@ -85,7 +85,7 @@
                         <div class="about-content">
                             <h5>Tratamientos asistidos</h5>
                             <p>Caborin levera then andin tha qualit bwdh thenig covae thm anying value cordin</p>
-                            <a href="#" class="text-btn">Más información</a>
+                            <a href="nosotros.php" class="text-btn">Más información</a>
                         </div>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                         <div class="about-content">
                             <h5>Personal Calificado</h5>
                             <p>Caborin levera then andin tha qualit bwdh thenig covae thm anying value cordin</p>
-                            <a href="#" class="text-btn">Agendar cita</a>
+                            <a href="index.php#agendar" class="text-btn">Agendar cita</a>
                         </div>
                     </div>
                 </div>
@@ -266,7 +266,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="sf-right">
-                                                                <a href="service-single.html"
+                                                                <a href="index.php#agendar"
                                                                     class="lab-btn"><span>Agendar cita<i
                                                                             class="icofont-rounded-double-right"></i></span></a>
                                                             </div>
@@ -324,7 +324,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="sf-right">
-                                                                <a href="service-single.html"
+                                                                <a href="index.php#agendar"
                                                                     class="lab-btn"><span>Agendar cita<i
                                                                             class="icofont-rounded-double-right"></i></span></a>
                                                             </div>
@@ -381,7 +381,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="sf-right">
-                                                                <a href="service-single.html"
+                                                                <a href="index.php#agendar"
                                                                     class="lab-btn"><span>Agendar cita<i
                                                                             class="icofont-rounded-double-right"></i></span></a>
                                                             </div>
@@ -438,7 +438,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="sf-right">
-                                                                <a href="service-single.html"
+                                                                <a href="index.php#agendar"
                                                                     class="lab-btn"><span>Agendar cita<i
                                                                             class="icofont-rounded-double-right"></i></span></a>
                                                             </div>
@@ -640,204 +640,6 @@
 </section>
 <!-- Services section ending here -->
 
-<!-- service section start here -->
-<section hidden class="service-section style-2 padding-tb bg-ash">
-    <div class="container">
-        <div class="section-header">
-            <h2>What Medical Services Do <span class="theme-color"> We Offer?</span></h2>
-        </div>
-        <div class="section-wraper">
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-12">
-                    <div class="service-item style-1">
-                        <div class="service-thumb">
-                            <img src="assets/images/service/02.jpg" alt="service-thumb">
-                            <img src="assets/images/service/02d.jpg" alt="service-thumb">
-                        </div>
-                        <div class="service-content">
-                            <h4>Family Health Solutions</h4>
-                            <p>On the othes hand we denoun with righe ingnaton and dislke men who are beued mnique deplo
-                                scalable catalys foring an and demorng by the charms</p>
-                            <a href="service-single.html" class="text-btn">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="service-item style-1">
-                        <div class="service-thumb">
-                            <img src="assets/images/service/03.jpg" alt="service-thumb">
-                            <img src="assets/images/service/03d.jpg" alt="service-thumb">
-                        </div>
-                        <div class="service-content">
-                            <h4>Eye Care Solutions</h4>
-                            <p>On the othes hand we denoun with righe ingnaton and dislke men who are beued mnique deplo
-                                scalable catalys foring an and demorng by the charms</p>
-                            <a href="service-single.html" class="text-btn">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="service-item style-1">
-                        <div class="service-thumb">
-                            <img src="assets/images/service/04.jpg" alt="service-thumb">
-                            <img src="assets/images/service/04d.jpg" alt="service-thumb">
-                        </div>
-                        <div class="service-content">
-                            <h4>Dental Surgery</h4>
-                            <p>On the othes hand we denoun with righe ingnaton and dislke men who are beued mnique deplo
-                                scalable catalys foring an and demorng by the charms</p>
-                            <a href="service-single.html" class="text-btn">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="service-item style-1">
-                        <div class="service-thumb">
-                            <img src="assets/images/service/05.jpg" alt="service-thumb">
-                            <img src="assets/images/service/05d.jpg" alt="service-thumb">
-                        </div>
-                        <div class="service-content">
-                            <h4>Children’s Health</h4>
-                            <p>On the othes hand we denoun with righe ingnaton and dislke men who are beued mnique deplo
-                                scalable catalys foring an and demorng by the charms</p>
-                            <a href="service-single.html" class="text-btn">Read More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="text-center">
-                <a href="service.html" class="lab-btn"><span>view all service<i
-                            class="icofont-double-right"></i></span></a>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- service section ending here -->
-
-<!-- Team Sections Start Here -->
-<section hidden class="team-section relative padding-tb bg-white">
-    <div class="pattan-shape"></div>
-    <div class="container">
-        <div class="section-header">
-            <h2><span class="d-block">Who We Are</span> Meet Our <span class="theme-color">Professional Doctors</span>
-            </h2>
-        </div>
-        <div class="section-wrapper">
-            <div class="row justify-content-center no-gutters">
-                <div class="col-lg-6 col-12">
-                    <div class="team-item style-1">
-                        <div class="team-inner">
-                            <div class="team-thumb">
-                                <img src="assets/images/team/01.jpg" alt="team-thumb">
-                            </div>
-                            <div class="team-content">
-                                <h5 class="member-name">Dr. Jason Kovalsky</h5>
-                                <span class="member-dagi">Sergion Specialist</span>
-                                <p class="member-details">Dr. Jason Kovalsky is and internist in rochester and has been
-                                    in practilce between 5-8 years </p>
-                                <ul class="lab-ul">
-                                    <li><span>Speciality</span>: Sergion Specialist</li>
-                                    <li><span>Degrees</span>: M.D. of Medicine</li>
-                                    <li><span>Experiences</span>: 06+ Years Ago</li>
-                                    <li><span>Follow us</span>: <a href="#"><i class="icofont-facebook"></i></a><a
-                                            href="#"><i class="icofont-twitter"></i></a><a href="#"><i
-                                                class="icofont-skype"></i></a><a href="#"><i
-                                                class="icofont-instagram"></i></a><a href="#"><i
-                                                class="icofont-pinterest"></i></a></li>
-                                </ul>
-                                <a href="team-single.html" class="text-btn">View Portfolio</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="team-item style-1">
-                        <div class="team-inner">
-                            <div class="team-thumb">
-                                <img src="assets/images/team/02.jpg" alt="team-thumb">
-                            </div>
-                            <div class="team-content">
-                                <h5 class="member-name">Dr. Bangile Yusha</h5>
-                                <span class="member-dagi">Sergion Specialist</span>
-                                <p class="member-details">Dr. Bangile Yusha is and internist in rochester and has been
-                                    in practilce between 5-8 years </p>
-                                <ul class="lab-ul">
-                                    <li><span>Speciality</span>: Sergion Specialist</li>
-                                    <li><span>Degrees</span>: M.D. of Medicine</li>
-                                    <li><span>Experiences</span>: 06+ Years Ago</li>
-                                    <li><span>Follow us</span>: <a href="#"><i class="icofont-facebook"></i></a><a
-                                            href="#"><i class="icofont-twitter"></i></a><a href="#"><i
-                                                class="icofont-skype"></i></a><a href="#"><i
-                                                class="icofont-instagram"></i></a><a href="#"><i
-                                                class="icofont-pinterest"></i></a></li>
-                                </ul>
-                                <a href="team-single.html" class="text-btn">View Portfolio</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="team-item style-1">
-                        <div class="team-inner">
-                            <div class="team-thumb">
-                                <img src="assets/images/team/03.jpg" alt="team-thumb">
-                            </div>
-                            <div class="team-content">
-                                <h5 class="member-name">Dr. Lubna Khanna</h5>
-                                <span class="member-dagi">Sergion Specialist</span>
-                                <p class="member-details">Dr. Lubna Khanna is and internist in rochester and has been in
-                                    practilce between 5-8 years </p>
-                                <ul class="lab-ul">
-                                    <li><span>Speciality</span>: Sergion Specialist</li>
-                                    <li><span>Degrees</span>: M.D. of Medicine</li>
-                                    <li><span>Experiences</span>: 06+ Years Ago</li>
-                                    <li><span>Follow us</span>: <a href="#"><i class="icofont-facebook"></i></a><a
-                                            href="#"><i class="icofont-twitter"></i></a><a href="#"><i
-                                                class="icofont-skype"></i></a><a href="#"><i
-                                                class="icofont-instagram"></i></a><a href="#"><i
-                                                class="icofont-pinterest"></i></a></li>
-                                </ul>
-                                <a href="team-single.html" class="text-btn">View Portfolio</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="team-item style-1">
-                        <div class="team-inner">
-                            <div class="team-thumb">
-                                <img src="assets/images/team/04.jpg" alt="team-thumb">
-                            </div>
-                            <div class="team-content">
-                                <h5 class="member-name">Dr. William Khanna</h5>
-                                <span class="member-dagi">Sergion Specialist</span>
-                                <p class="member-details">Dr. William Khanna is and internist in rochester and has been
-                                    in practilce between 5-8 years </p>
-                                <ul class="lab-ul">
-                                    <li><span>Speciality</span>: Sergion Specialist</li>
-                                    <li><span>Degrees</span>: M.D. of Medicine</li>
-                                    <li><span>Experiences</span>: 06+ Years Ago</li>
-                                    <li><span>Follow us</span>: <a href="#"><i class="icofont-facebook"></i></a><a
-                                            href="#"><i class="icofont-twitter"></i></a><a href="#"><i
-                                                class="icofont-skype"></i></a><a href="#"><i
-                                                class="icofont-instagram"></i></a><a href="#"><i
-                                                class="icofont-pinterest"></i></a></li>
-                                </ul>
-                                <a href="team-single.html" class="text-btn">View Portfolio</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="text-center">
-                <a href="team.html" class="lab-btn"><span>View All Doctors<i
-                            class="icofont-double-right"></i></span></a>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Team Sections Ending Here -->
-
 <div class="conta" id="agendar"></div>
 <!-- Contact section start here -->
 <section class="contact-section style-1 padding-tb" >
@@ -867,137 +669,6 @@
 </section>
 <!-- Contact section ending here -->
 
-<!-- blog section start here -->
-<section hidden class="blog-section relative style-1 padding-tb">
-    <div class="pattan-shape"></div>
-    <div class="container">
-        <div class="section-header">
-            <h2><span class="d-block">News Feed Be</span> The First To Our <span class="theme-color">New Stories</span>
-            </h2>
-        </div>
-        <div class="section-wrapper">
-            <div class="row no-gutters">
-                <div class="col-lg-6 col-12">
-                    <div class="post-item style-1">
-                        <div class="post-inner">
-                            <div class="post-thumb">
-                                <a href="blog-single.html"><img src="assets/images/blog/01.jpg" alt="blog"></a>
-                            </div>
-                            <div class="post-content">
-                                <div class="meta-post">
-                                    <div class="meta-icon">
-                                        <i class="icofont-film"></i>
-                                    </div>
-                                    <a href="#" class="date">01 May'20</a>
-                                    <a href="#" class="name">John Doe</a>
-                                    <a href="#" class="comments">1 Comments</a>
-                                </div>
-                                <div class="main-content">
-                                    <h4><a href="blog-single.html">Business Ueporting Rouncil Them Good Could Plan</a>
-                                    </h4>
-                                    <p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed mauris vitae erat
-                                        consequat auctor euin elitin Class ptent inceptos himenaeos. Mauris in erat
-                                        justo.</p>
-                                    <a href="blog-single.html" class="lab-btn"><span>Read More <i
-                                                class="icofont-double-right"></i></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="post-item style-1">
-                        <div class="post-inner">
-                            <div class="post-thumb">
-                                <a href="blog-single.html"><img src="assets/images/blog/02.jpg" alt="blog"></a>
-                            </div>
-                            <div class="post-content">
-                                <div class="meta-post">
-                                    <div class="meta-icon">
-                                        <i class="icofont-film"></i>
-                                    </div>
-                                    <a href="#" class="date">01 May'20</a>
-                                    <a href="#" class="name">John Doe</a>
-                                    <a href="#" class="comments">1 Comments</a>
-                                </div>
-                                <div class="main-content">
-                                    <h4><a href="blog-single.html">Financial Reporting Qouncil What Why Could More</a>
-                                    </h4>
-                                    <p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed mauris vitae erat
-                                        consequat auctor euin elitin Class ptent inceptos himenaeos. Mauris in erat
-                                        justo.</p>
-                                    <a href="blog-single.html" class="lab-btn"><span>Read More <i
-                                                class="icofont-double-right"></i></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="post-item style-1">
-                        <div class="post-inner">
-                            <div class="post-thumb">
-                                <a href="blog-single.html"><img src="assets/images/blog/03.jpg" alt="blog"></a>
-                            </div>
-                            <div class="post-content">
-                                <div class="meta-post">
-                                    <div class="meta-icon">
-                                        <i class="icofont-film"></i>
-                                    </div>
-                                    <a href="#" class="date">01 May'20</a>
-                                    <a href="#" class="name">John Doe</a>
-                                    <a href="#" class="comments">1 Comments</a>
-                                </div>
-                                <div class="main-content">
-                                    <h4><a href="blog-single.html">Conulting Reporting Qouncil Arei Not Could More</a>
-                                    </h4>
-                                    <p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed mauris vitae erat
-                                        consequat auctor euin elitin Class ptent inceptos himenaeos. Mauris in erat
-                                        justo.</p>
-                                    <a href="blog-single.html" class="lab-btn"><span>Read More <i
-                                                class="icofont-double-right"></i></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="post-item style-1">
-                        <div class="post-inner">
-                            <div class="post-thumb">
-                                <a href="blog-single.html"><img src="assets/images/blog/04.jpg" alt="blog"></a>
-                            </div>
-                            <div class="post-content">
-                                <div class="meta-post">
-                                    <div class="meta-icon">
-                                        <i class="icofont-film"></i>
-                                    </div>
-                                    <a href="#" class="date">01 May'20</a>
-                                    <a href="#" class="name">John Doe</a>
-                                    <a href="#" class="comments">1 Comments</a>
-                                </div>
-                                <div class="main-content">
-                                    <h4><a href="blog-single.html">Ueporting Business Rouncil Them Good Could Plan</a>
-                                    </h4>
-                                    <p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed mauris vitae erat
-                                        consequat auctor euin elitin Class ptent inceptos himenaeos. Mauris in erat
-                                        justo.</p>
-                                    <a href="blog-single.html" class="lab-btn"><span>Read More <i
-                                                class="icofont-double-right"></i></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="text-center">
-                <a href="blog.html" class="lab-btn"><span>view all blog page <i
-                            class="icofont-double-right"></i></span></a>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- blog section ending here -->
 
 <!-- testimonial section start here -->
 <div class="testimonial-section bg-ash mt-5">
